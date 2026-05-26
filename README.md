@@ -65,6 +65,7 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
+<img width="1139" height="866" alt="image" src="https://github.com/user-attachments/assets/b2d3ab64-7593-4c51-bd61-aa95630c45a8" />
 
 
 
@@ -72,6 +73,8 @@ Compare simulation results with pre-lab calculations and record observations.
 - <img width="793" height="1280" alt="WhatsApp Image 2026-05-16 at 9 37 47 AM" src="https://github.com/user-attachments/assets/3fdb03f6-e168-47a8-b9c8-56f633cd6dad" />
 - **Screenshots** of layout and results (including eye diagrams)
 - <img width="1022" height="546" alt="image" src="https://github.com/user-attachments/assets/2db7173a-0579-46de-bcf9-4323a08b6e41" />
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-26 at 6 57 27 PM" src="https://github.com/user-attachments/assets/13959eb8-79eb-4c16-b21d-68f450dd1f35" />
 
 ## RESULT
 Thus the Experiment was succesfully completed and output is verified.
