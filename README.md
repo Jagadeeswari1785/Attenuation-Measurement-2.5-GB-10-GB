@@ -74,7 +74,7 @@ Compare simulation results with pre-lab calculations and record observations.
 - **Screenshots** of layout and results (including eye diagrams)
 - <img width="1022" height="546" alt="image" src="https://github.com/user-attachments/assets/2db7173a-0579-46de-bcf9-4323a08b6e41" />
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-26 at 6 57 27 PM" src="https://github.com/user-attachments/assets/13959eb8-79eb-4c16-b21d-68f450dd1f35" />
+<img width="1000" height="1600" alt="WhatsApp Image 2026-05-26 at 6 57 27 PM" src="https://github.com/user-attachments/assets/13959eb8-79eb-4c16-b21d-68f450dd1f35" />
 
 ## RESULT
 Thus the Experiment was succesfully completed and output is verified.
